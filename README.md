@@ -1,24 +1,88 @@
-# Arman-Ansari
-<h1 align="center">Hi 👋, I'm ARMAN ANSARI</h1>
-<h3 align="center">A passionate frontend developer from India, At BMS Institute of Technology and Management, our team's expertise in SQL has emerged through rigorous academic engagement and practical applications. These skills are the bedrock of our ability to create efficient database solutions, reflecting a commitment to foundational knowledge and technical proficiency in the field of Telecommunication Engineering. Passionate about web technologies, we have leveraged the MERN stack in our projects to deliver seamless user experiences. The dedication to understanding user behavior and designing interfaces that resonate with users underscores our philosophy: technology must be both functional and user-friendly. As we approach graduation, the goal is to join forces with industry innovators in pushing the envelope of digital solutions.</h3>
+# 👋 Hi, I'm Arman Ansari
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=armanans1218&label=Profile%20views&color=0e75b6&style=flat" alt="armanans1218" /> </p>
+![GitHub followers](https://img.shields.io/github/followers/ARMANANS1218?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/ARMANANS1218?style=social)  
 
-- 👨‍💻 All of my projects are available at [https://armanans-portfolio.netlify.app/](https://armanans-portfolio.netlify.app/)
+**Aspiring Software Developer | MERN Stack Enthusiast | UI/UX Designer**  
 
-- 💬 Ask me about **MERN,react, javascript,c++**
+I'm a passionate software developer with a strong foundation in web development and a focus on user-friendly, responsive designs. I have experience in building full-stack applications and have worked on several exciting projects in the fields of web development, UI/UX design, and automation.
 
-- 📫 How to reach me **armanansarig813@gmail.com**
+---
 
-- 📄 Know about my experiences [https://armanans-portfolio.netlify.app/](https://armanans-portfolio.netlify.app/)
+## 🔥 Skills and Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/armanans1218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="armanans1218" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arman ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arman ansari" height="30" width="40" /></a>
-<a href="https://instagram.com/armanans1218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armanans1218" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arman ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arman ansari" height="30" width="40" /></a>
-</p>
+- **Languages:** C++, Python, JavaScript  
+- **Full Stack:** MongoDB, Express, React, Node.js (MERN)  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Design Tools:** Figma, Adobe XD  
+- **Data Visualization:** Power BI  
+- **Version Control:** Git & GitHub
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
+
+## 📚 Education
+
+**Bachelor of Engineering in Electronics and Telecommunication**  
+*BMS Institute of Technology, Bangalore* (2020 - 2024)  
+**CGPA:** 7.08 / 10  
+
+---
+
+## 💻 Experience
+
+- **Front-End Development Intern** at Bolt IoT (Jan 2023 - Feb 2023)  
+  *Designed and developed responsive web interfaces using HTML, CSS, and JavaScript.*
+  
+- **UI/UX Design Intern** at CodSoft (Aug 2023 - Sep 2023)  
+  *Created user-centered designs, conducted user research, and prototyped intuitive interfaces.*
+
+---
+
+## 🚀 Projects
+
+- **[Realtime Chat App](https://github.com/ARMANANS1218)**  
+  *Node.js, Socket.IO*  
+  A real-time chat app enabling instant communication between users.  
+
+- **[Random Password Generator](https://github.com/ARMANANS1218/Password_generator)**  
+  *HTML, CSS, JavaScript*  
+  A web-based tool that generates strong, unique passwords for enhanced security.
+
+- **[Automatic Certificate Generator](https://github.com/ARMANANS1218/Automatic-certificate-generation)**  
+  *MATLAB*  
+  A tool that automates certificate generation, ensuring accuracy and efficiency.
+
+---
+
+## 🎓 Certifications
+
+- **Programming in C++**  
+- **Web Development (MERN Stack)**  
+- **UI/UX Design**  
+- **Power BI Data Visualization**
+
+---
+
+## 🏆 Achievements
+
+- Solved **170+ problems** on platforms like LeetCode and GeeksforGeeks, focusing on Data Structures and Algorithms.
+- Developed multiple full-stack applications and designed intuitive user interfaces.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ARMANANS1218&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARMANANS1218&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- **GitHub:** [ARMANANS1218](https://github.com/ARMANANS1218)  
+- **Portfolio:** [Arman Ansari Portfolio](https://armanans-portfolio.netlify.app/)  
+- **LinkedIn:** [Arman Ansari](https://www.linkedin.com/in/armanansari1218/)  
+- **Email:** armanansarig813@gmail.com
+
+---
+
+Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects!
