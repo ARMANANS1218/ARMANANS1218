@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arman Ansari
+
 
 <h1 align="center">Hi 👋, I'm ARMAN ANSARI</h1>
 <h3 align="center">A passionate frontend developer from India, At BMS Institute of Technology and Management, our team's expertise in SQL has emerged through rigorous academic engagement and practical applications. These skills are the bedrock of our ability to create efficient database solutions, reflecting a commitment to foundational knowledge and technical proficiency in the field of Telecommunication Engineering. Passionate about web technologies, we have leveraged the MERN stack in our projects to deliver seamless user experiences. The dedication to understanding user behavior and designing interfaces that resonate with users underscores our philosophy: technology must be both functional and user-friendly. As we approach graduation, the goal is to join forces with industry innovators in pushing the envelope of digital solutions.</h3>
