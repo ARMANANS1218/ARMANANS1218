@@ -65,7 +65,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ARMANANS1218&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARMANANS1218&layout=compact&theme=radical)
 
----
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/armanmesropyan/armanmesropyan/output/snake.svg" alt="Snake animation" />
+
 
 ## 📫 Let's Connect
 
