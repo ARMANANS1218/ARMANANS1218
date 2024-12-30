@@ -104,7 +104,7 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/armanans1218/armanans1218/blob/output/dist/snake.svg" alt="snake" />
+  <img src="https://github.com/armanans1218/armanans1218/blob/output/snake.svg" alt="snake" />
 </p>
 
 
