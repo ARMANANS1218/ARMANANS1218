@@ -42,6 +42,8 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> </a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 </p>
 
 ## 🎓 Certifications
@@ -62,21 +64,48 @@
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ARMANANS1218&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARMANANS1218&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ARMANANS1218&show_icons=true&theme=radical" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARMANANS1218&layout=compact&theme=radical" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=armanans1218&theme=radical" alt="GitHub Streak Stats" /></td>
+  </tr>
+</table>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/armanmesropyan/armanmesropyan/output/snake.svg" alt="Snake animation" />
+## Trophy
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=armanans1218&column=8&margin-w=15&margin-h=15&theme=radical" alt="armanans1218" width="100%" />
+  </a>
+</p>
+
+
+### ✨ Developer's Motto
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=700&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.;First%2C+solve+the+problem.+Then%2C+write+the+code.;Strive+to+build+something+that+makes+a+difference." />
+</p>
 
 ## 📫 Let's Connect
 
 - **GitHub:** [ARMANANS1218](https://github.com/ARMANANS1218)  
-- **Portfolio:** [Arman Ansari Portfolio](https://armanans-portfolio.netlify.app/)  
+- **Portfolio:** [Arman Ansari Portfolio](https://arman-portfolio-2.vercel.app/)  
 - **LinkedIn:** [Arman Ansari](https://www.linkedin.com/in/armanansari1218/)  
 - **Email:** armanansarig813@gmail.com
 
 ---
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects!
+
+
+
+
+
+
+
+
+
+
+
