@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ARMAN ANSARI</h1>
-<h3 align="center">Frontend Developer from India with expertise in the MERN stack and SQL, blending technical proficiency with a passion for user-centric design. Committed to building intuitive, efficient digital solutions that enhance user experiences.</h3>
+<h3 align="center">Full Stack Developer from India with expertise in the MERN stack and SQL, blending technical proficiency with a passion for user-centric design. Committed to building intuitive, efficient digital solutions that enhance user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanans1218&label=Profile%20views&color=0e75b6&style=flat" alt="armanans1218" /> </p>
 
