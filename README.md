@@ -150,9 +150,6 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 
 
 
-### 🐍 Contribution Graph
-
-![snake gif](https://github.com/ARMANANS1218/ARMANANS1218/blob/output/github-snake-dark.svg)
 
 
 
